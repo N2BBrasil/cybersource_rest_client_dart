@@ -1,0 +1,24 @@
+name: cybersource_rest_client_dart
+description: "A new Flutter package project."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  credit_card_type_detector: ^3.0.0
+  crypto: ^3.0.3
+  dio: ^5.4.3+1
+  faker: ^2.1.0
+  flutter:
+    sdk: flutter
+  http_mock_adapter: ^0.6.1
+  logger: ^2.3.0
+  mocktail: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
